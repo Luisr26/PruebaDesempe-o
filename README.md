@@ -1,4 +1,7 @@
 -------------------------------------------------------------------------------------------
+https://github.com/Luisr26/PruebaDesempe-o
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+-------------------------------------------------------------------------------------------
 Español
 
 El código CSS proporcionado para la tienda en línea "Luis Perfum" utiliza una combinación efectiva de Flexbox y Grid para crear un diseño moderno y responsivo. Las variables CSS definidas en :root permiten una gestión coherente de colores y sombras a lo largo del sitio. Flexbox se emplea en la barra de navegación y en la sección de contacto para alinear elementos de manera horizontal y vertical, asegurando una presentación ordenada. Por otro lado, CSS Grid se utiliza en la sección hero y en la cuadrícula de productos, permitiendo una disposición atractiva y adaptable del contenido. Además, se incluyen estilos responsivos que ajustan el diseño para pantallas más pequeñas, garantizando una experiencia de usuario fluida y agradable. En conjunto, estos elementos contribuyen a una interfaz visualmente atractiva y funcional que refleja la identidad de la marca.
